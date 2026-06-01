@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="WhatsApp Image 2026-04-23 at 5 04 52 PM" src="https://github.com/user-attachments/assets/c3743887-ddd2-4e65-9394-873649bdc51f" /># 🚀 SaniTrax
+# 🚀 SaniTrax
 
 ### Smart Public Toilet Monitoring & Maintenance System
 
