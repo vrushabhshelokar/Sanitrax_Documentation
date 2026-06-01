@@ -342,18 +342,10 @@ Deploy centralized monitoring across city-wide public infrastructure systems.
 
 # 🖼️ Screenshots
 
-## Admin Dashboard
-
-> Add screenshot here
-
----
 
 ## Janitor Mobile Application
 
-> Add screenshot here
-
----
-
+https://drive.google.com/drive/folders/1bGv6ivX0Mit-nLNVZ4sPT30yS4SmTcWw?usp=sharing
 
 ---
 
